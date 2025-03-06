@@ -58,7 +58,7 @@ This project was a team-based implementation of a **Windows Server infrastructur
 
 ## Contributors
 - **Hossam Mahmoud**
-- **Sara Mouse**
+- **Sara Mousa**
 - **Sara Atef**
 - **Mahmoud Mohamed**
 - **Mariam Ibrahim**
