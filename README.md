@@ -1,3 +1,4 @@
+MCSA Infrastructure Project
 Project Overview
 This project was a team-based implementation of a Windows Server infrastructure using MCSA (Microsoft Certified Solutions Associate) principles. The goal was to design and deploy a robust IT environment with Group Policies, permissions, domain services, and web hosting.
 
@@ -19,7 +20,7 @@ Applied Group Policy Objects (GPOs) for security and user management.
 Set up permissions and access controls.
 2️⃣ DNS & DHCP
 Configured DNS Zones for name resolution.
-Set up DHCP Server to automatically assign IPs.
+Set up DHCP Server to automatically assign IP addresses.
 3️⃣ Delegation & Permissions
 Assigned delegated administrative roles.
 Implemented file sharing with NTFS and Share permissions.
@@ -34,12 +35,12 @@ How to Use the Infrastructure
 Users are automatically assigned policies based on their department.
 Permissions restrict access to sensitive files.
 🔹 Website & FTP Usage
-IIS hosts a website at http://intranet.local.
+IIS hosts a website .
 FTP users can upload/download files securely.
-Contributors :
+Contributors
 Hossam Mahmoud
-sara mose 
-sara atef 
-mahmoud mohamed 
-mariam ibrahim
-marian reda 
+Sara Mose
+Sara Atef
+Mahmoud Mohamed
+Mariam Ibrahim
+Marian Reda
